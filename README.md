@@ -1,12 +1,12 @@
-# [SB Admin](https://themewagon.com/themes/bootstrap-4-admin-template/)
+# [SMS]
 
-SB Admin is an open source, admin dashboard template for [Bootstrap 4](https://themewagon.com/theme_tag/bootstrap-4-templates/) created by [Start Bootstrap](http://startbootstrap.com/) and distributed by [ThemeWagon](https://themewagon.com/).
+This is a modifiled version of SB Admin which is an open source, admin dashboard template for [Bootstrap 4] created by [Start Bootstrap](http://startbootstrap.com/) and distributed by [ThemeWagon](https://themewagon.com/).
 
 ## Preview
 
-[![SB Admin Preview](https://startbootstrap.com/assets/img/templates/sb-admin.jpg)](https://themewagon.com/themes/bootstrap-4-admin-template/)
+[![SB Admin Preview](https://startbootstrap.com/assets/img/templates/sb-admin.jpg)]
 
-**[View Live Preview](http://demo.themewagon.com/preview/bootstrap-4-admin-template)**
+This is the original version.
 
 ## Status
 
@@ -19,10 +19,8 @@ SB Admin is an open source, admin dashboard template for [Bootstrap 4](https://t
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* [Download from ThemeWagon](https://themewagon.com/themes/bootstrap-4-admin-template/)
-* Install via npm: `npm i startbootstrap-sb-admin`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-sb-admin.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/technext/sb-admin)
+* Clone the repo: `git clone https://github.com/adarshm07/sms.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/adarshm07/sms)
 
 ## Usage
 
@@ -45,20 +43,10 @@ After installation, run `npm install` and then run `gulp dev` which will open up
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-sb-admin/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin/).
-
-## Custom Builds
-
-You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
+Have a bug or an issue with this template? [Open a new issue](https://github.com/adarshm07/sms/issues) here on GitHub.
 
 ## About
-
-ThemeWagon is a popular site for HTML5 and Bootstrap website templates. Let's visit our site to see some of the world's best templates built with the modern, awesome technology. Here are a few popular links to get help:
-
-* https://themewagon.com/blog
-* https://themewagon.com/theme_tag/free/
-* https://themewagon.com/theme-categories/admin-dashboard/
-* https://themewagon.com/theme_tag/bootstrap-4-templates/
+You can contact us via email: contact@adarshm.com
 
 ## Copyright and License
 
